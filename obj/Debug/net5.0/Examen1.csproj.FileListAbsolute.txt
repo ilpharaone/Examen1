@@ -1,0 +1,16 @@
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\bin\Debug\net5.0\Examen1.exe
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\bin\Debug\net5.0\Examen1.deps.json
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\bin\Debug\net5.0\Examen1.runtimeconfig.json
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\bin\Debug\net5.0\Examen1.runtimeconfig.dev.json
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\bin\Debug\net5.0\Examen1.dll
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\bin\Debug\net5.0\ref\Examen1.dll
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\bin\Debug\net5.0\Examen1.pdb
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\obj\Debug\net5.0\Examen1.csproj.AssemblyReference.cache
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\obj\Debug\net5.0\Examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\obj\Debug\net5.0\Examen1.AssemblyInfoInputs.cache
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\obj\Debug\net5.0\Examen1.AssemblyInfo.cs
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\obj\Debug\net5.0\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\obj\Debug\net5.0\Examen1.dll
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\obj\Debug\net5.0\ref\Examen1.dll
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\obj\Debug\net5.0\Examen1.pdb
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Examen1\obj\Debug\net5.0\Examen1.genruntimeconfig.cache
